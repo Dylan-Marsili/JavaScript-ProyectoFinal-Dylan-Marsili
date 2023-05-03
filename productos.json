@@ -1,0 +1,202 @@
+[
+  {
+    "idProd": 1,
+    "nombreProd": "The Legend of Zelda: Breath of the Wild",
+    "descripProd": "Videojuego de aventuras y acción de la saga de Zelda, para la consola Nintendo Switch",
+    "precioProd": 5499,
+    "stockProd": 20,
+    "imagenProd": "The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+    "valoracion": 4.8,
+    "palclaves": "zelda, breath of the wild, videojuego, aventuras, acción, nintendo switch",
+    "categoria": "videojuegos",
+    "plataforma": "Nintendo Switch",
+    "busqueda": "The Legend of Zelda: Breath of the Wild Videojuego de aventuras y acción de la saga de Zelda Nintendo Switch"
+  },
+  {
+    "idProd": 2,
+    "nombreProd": "God of War",
+    "descripProd": "Videojuego de acción y aventuras basado en la mitología nórdica, para la consola PlayStation 4",
+    "precioProd": 3899,
+    "stockProd": 15,
+    "imagenProd": "God_of_War_4_cover.jpg",
+    "valoracion": 4.7,
+    "palclaves": "god of war, videojuego, acción, aventuras, mitología, nórdica, playstation 4",
+    "categoria": "videojuegos",
+    "plataforma": "PlayStation 4",
+    "busqueda": "God of War Videojuego de acción y aventuras basado en la mitología nórdica PlayStation 4"
+  },
+  {
+    "idProd": 3,
+    "nombreProd": "Super Mario Odyssey",
+    "descripProd": "Videojuego de plataformas y aventuras, para la consola Nintendo Switch",
+    "precioProd": 3899,
+    "stockProd": 10,
+    "imagenProd": "Super_Mario_Odissey.jpg",
+    "valoracion": 4.9,
+    "palclaves": "super mario odyssey, videojuego, plataformas, aventuras, nintendo switch",
+    "categoria": "videojuegos",
+    "plataforma": "Nintendo Switch",
+    "busqueda": "Super Mario Odyssey Videojuego de plataformas y aventuras Nintendo Switch"
+  },
+  {
+    "idProd": 4,
+    "nombreProd": "The Last of Us Part II",
+    "descripProd": "Videojuego de acción y aventuras, con elementos de survival horror, para la consola PlayStation 4",
+    "precioProd": 4799,
+    "stockProd": 5,
+    "imagenProd": "The_Last_Of_Us.jpg",
+    "valoracion": 4.6,
+    "palclaves": "the last of us, part II, videojuego, acción, aventuras, survival horror, playstation 4",
+    "categoria": "videojuegos",
+    "plataforma": "PlayStation 4",
+    "busqueda": "The Last of Us Part II Videojuego de acción y aventuras con elementos de survival horror PlayStation 4"
+  },
+  {
+    "idProd": 5,
+    "nombreProd": "The Legend of Zelda: Breath of the Wild",
+    "descripProd": "Videojuego de aventuras y acción para Nintendo Switch",
+    "precioProd": 2999,
+    "stockProd": 0,
+    "imagenProd": "The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+    "valoracion": 4.9,
+    "categoria": "Videojuegos",
+    "plataforma": "Nintendo Switch",
+    "palclaves": "Zelda, Breath of the Wild, aventuras, acción, Nintendo Switch",
+
+    "busqueda": "The Legend of Zelda: Breath of the Wild Videojuego de aventuras y acción para Nintendo Switch Videojuegos Zelda Nintendo Switch"
+  },
+  {
+    "idProd": 6,
+    "nombreProd": "FIFA 22",
+    "descripProd": "Videojuego de simulación de fútbol para Xbox One",
+    "precioProd": 3499,
+    "stockProd": 5,
+    "imagenProd": "FIFA_22.jpg",
+    "valoracion": 4.6,
+    "categoria": "Videojuegos",
+    "plataforma": "Xbox One",
+    "palclaves": "FIFA, fútbol, simulación, Xbox One",
+
+    "busqueda": "FIFA 22 Videojuego de simulación de fútbol para Xbox One Videojuegos FIFA Xbox One"
+  },
+  {
+    "idProd": 7,
+    "nombreProd": "Super Mario Odyssey",
+    "descripProd": "Videojuego de plataformas para Nintendo Switch",
+    "precioProd": 2799,
+    "stockProd": 7,
+    "imagenProd": "Super_Mario_Odissey.jpg",
+    "valoracion": 4.8,
+    "categoria": "Videojuegos",
+    "plataforma": "Nintendo Switch",
+    "palclaves": "Mario, Odyssey, plataformas, Nintendo Switch",
+
+    "busqueda": "Super Mario Odyssey Videojuego de plataformas para Nintendo Switch Videojuegos Mario Odyssey Nintendo Switch"
+  },
+  {
+    "idProd": 8,
+    "nombreProd": "Minecraft",
+    "descripProd": "Videojuego de construcción y aventuras para Xbox One",
+    "precioProd": 1899,
+    "stockProd": 15,
+    "imagenProd": "Minecraft-300x465.avif",
+    "valoracion": 4.7,
+    "categoria": "Videojuegos",
+    "plataforma": "Xbox One",
+    "palclaves": "Minecraft, construcción, aventuras, Xbox One",
+    "busqueda": "Minecraft Videojuego de construcción y aventuras para Xbox One Videojuegos Minecraft Xbox One"
+  },
+  {
+    "idProd": 9,
+    "nombreProd": "Grand Theft Auto V",
+    "descripProd": "Juego de acción y aventura en mundo abierto",
+    "precioProd": 2999,
+    "stockProd": 0,
+    "imagenProd": "gta-v.jpg",
+    "valoracion": 4.9,
+    "plataforma": "PlayStation 4",
+    "palclaves": "Grand Theft Auto V GTA V juego de acción aventura mundo abierto PlayStation 4 PS4",
+    "busqueda": "Grand Theft Auto V Juego de acción y aventura en mundo abierto PlayStation 4 PS4",
+    "lanzamiento": "2013-09-17"
+  },
+  {
+    "idProd": 10,
+    "nombreProd": "The Legend of Zelda: Breath of the Wild",
+    "descripProd": "Juego de aventuras y acción en mundo abierto",
+    "precioProd": 3499,
+    "stockProd": 5,
+    "imagenProd": "The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+    "valoracion": 4.8,
+    "plataforma": "Nintendo Switch",
+    "palclaves": "The Legend of Zelda Breath of the Wild juego aventuras acción mundo abierto Nintendo Switch",
+    "busqueda": "The Legend of Zelda Breath of the Wild Juego de aventuras y acción en mundo abierto Nintendo Switch",
+    "lanzamiento": "2017-03-03"
+  },
+  {
+    "idProd": 11,
+    "nombreProd": "God of War",
+    "descripProd": "Juego de acción y aventura basado en la mitología nórdica",
+    "precioProd": 2499,
+    "stockProd": 20,
+    "imagenProd": "God_of_War_4_cover.jpg",
+    "valoracion": 4.7,
+    "plataforma": "PlayStation 4",
+    "palclaves": "God of War juego acción aventura mitología nórdica PlayStation 4 PS4",
+
+    "busqueda": "God of War Juego de acción y aventura basado en la mitología nórdica PlayStation 4 PS4",
+    "lanzamiento": "2018-04-20"
+  },
+  {
+    "idProd": 12,
+    "nombreProd": "Minecraft",
+    "descripProd": "Juego de construcción y aventura en un mundo de bloques",
+    "precioProd": 999,
+    "stockProd": 0,
+    "imagenProd": "Minecraft-300x465.avif",
+    "valoracion": 4.6,
+    "plataforma": "PC",
+    "palclaves": "Minecraft juego construcción aventura mundo bloques PC",
+
+    "busqueda": "Minecraft Juego de construcción y aventura en un mundo de bloques PC",
+    "lanzamiento": "2011-11-18"
+  },
+  {
+    "idProd": 13,
+    "nombreProd": "Grand Theft Auto V",
+    "descripProd": "Juego de acción y aventura en mundo abierto",
+    "precioProd": 2999,
+    "stockProd": 10,
+    "imagenProd": "gta-v.jpg",
+    "valoracion": 4.8,
+    "plataforma": "PlayStation 4",
+    "palclaves": "gta5 juego playstation4 acción aventura mundo abierto",
+
+    "busqueda": "Grand Theft Auto V Juego de acción y aventura en mundo abierto PlayStation 4"
+  },
+  {
+    "idProd": 14,
+    "nombreProd": "FIFA 22",
+    "descripProd": "Juego de fútbol con los equipos y jugadores más importantes del mundo",
+    "precioProd": 3999,
+    "stockProd": 5,
+    "imagenProd": "FIFA_22.jpg",
+    "valoracion": 4.5,
+    "plataforma": "Xbox Series X",
+    "palclaves": "fifa22 juego xboxseriesx fútbol equipos jugadores",
+
+    "busqueda": "FIFA 22 Juego de fútbol con los equipos y jugadores más importantes del mundo Xbox Series X"
+  },
+  {
+    "idProd": 15,
+    "nombreProd": "Minecraft",
+    "descripProd": "Juego de construcción y aventura en un mundo generado proceduralmente",
+    "precioProd": 1999,
+    "stockProd": 20,
+    "imagenProd": "Minecraft-300x465.avif",
+    "valoracion": 4.7,
+    "plataforma": "Nintendo Switch",
+    "palclaves": "minecraft juego nintendoswitch construcción aventura mundo generado",
+
+    "busqueda": "Minecraft Juego de construcción y aventura en un mundo generado proceduralmente Nintendo Switch"
+  }
+]
