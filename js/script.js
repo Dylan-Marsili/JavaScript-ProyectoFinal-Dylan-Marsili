@@ -12,15 +12,6 @@ const usuarioReg = [{
 
 }]
 
-/* aun sin implementar */
-const tiposUsuario = [{
-    id: 0, tipo: 'Cliente'
-}
-    , {
-    id: 1, tipo: 'Vendedor'
-}
-]
-
 let usuEncontrado = {
     idUsuario: "",
     email: "",
