@@ -27,13 +27,10 @@ let carrito = {
     idCarrito: "",
     usuario: {},
     contenidoCarrito: [],
-    costoEnvio: 0,
     total: 0,
     items: 0
 }
 
-// el costo de env'io se decidi'o hardcodear para simpleficar el código
-const costEnvio = 120
 const listaProductos = []
 let prodSeleccionados = []
 let indexUsuEncontrado
@@ -324,7 +321,6 @@ function devolverTodo(id) {
 
 function vaciarCarrito(){
     carrito.contenidoCarrito.splice(0, carrito.contenidoCarrito.length)
-    carrito.costoEnvio = 0
     calcularTotal()
 }
 
@@ -503,7 +499,6 @@ function generarItemsCarrito() {
 function actualizaTotalCarrito() {
     totalDiv.innerHTML = `$${carrito.total}`
     totalDivCheckout.innerHTML = `$${carrito.total}`
-    carrito.costoEnvio == 120 ? (sinEnvio.checked = false, conEnvio.checked = true) : (sinEnvio.checked = true, conEnvio.checked = false)
     toogleCarritoYTotales()
     saveShop()
 
